@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <tags>
+        <tag unit="">name</tag>
+        <tag unit="">symbol</tag>
+        <tag unit="">weight</tag>
+        <tag unit="">period</tag>
+        <tag unit="">group</tag>
+        <tag unit="">type</tag>
+        <tag unit="">electronegativity</tag>
+        <tag unit=" K">melting_point</tag>
+        <tag unit=" K">boiling_point</tag>
+        <tag unit=" eV">electron_affinity</tag>
+        <tag unit=" kJ/mol">ionization_energy</tag>
+        <tag unit=" pm">radius</tag>
+        <tag unit="">mohs_hardness</tag>
+        <tag unit=" K/(GPa">bulk_modulus</tag>
+        <tag unit="">density</tag>
+        <tag unit=" W/(m K)">thermal_conductivity</tag>
+        <tag unit=" S/m">electric_conductivity</tag>
+    </tags>
+    <element atomic_number = "1">
+        <period>1</period>
+        <group>1</group>
+        <symbol>H</symbol>
+        <name>Hydrogen</name>
+        <weight>1.008</weight>
+        <electronegativity>2.20</electronegativity>
+        <melting_point>14.01</melting_point>
+        <boiling_point>20.28</boiling_point>
+        <electron_affinity>0.754 195</electron_affinity>
+        <ionization_energy>1312.0</ionization_energy>
+        <radius>53</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.00008988</density>
+        <thermal_conductivity>0.1805</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+    <element atomic_number = "2">
+        <period>1</period>
+        <group>18</group>
+        <symbol>He</symbol>
+        <name>Helium</name>
+        <weight>4.0026</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>4.22</boiling_point>
+        <electron_affinity>-0.5</electron_affinity>
+        <ionization_energy>2372.3</ionization_energy>
+        <radius>31</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.0001785</density>
+        <thermal_conductivity>0.1513</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Nobel Gases</type>
+    </element>
+
+    <element atomic_number = "3">
+        <period>2</period>
+        <group>1</group>
+        <symbol>Li</symbol>
+        <name>Lithium</name>
+        <weight>6.941</weight>
+        <electronegativity>0.98</electronegativity>
+        <melting_point>453.69</melting_point>
+        <boiling_point>1560</boiling_point>
+        <electron_affinity>0.618 049</electron_affinity>
+        <ionization_energy>520.2</ionization_energy>
+        <radius>167</radius>
+        <mohs_hardness>0.6</mohs_hardness>
+        <bulk_modulus>11</bulk_modulus>
+        <density>0.534</density>
+        <thermal_conductivity>85</thermal_conductivity>
+        <electric_conductivity>0.00000011</electric_conductivity>
+        <type>Alkali Metals</type>
+    </element>
+    <element atomic_number = "4">
+        <period>2</period>
+        <group>2</group>
+        <symbol>Be</symbol>
+        <name>Beryllium</name>
+        <weight>9.0122</weight>
+        <electronegativity>1.57</electronegativity>
+        <melting_point>1560</melting_point>
+        <boiling_point>2742</boiling_point>
+        <electron_affinity>-0.5</electron_affinity>
+        <ionization_energy>899.5</ionization_energy>
+        <radius>112</radius>
+        <mohs_hardness>5.5</mohs_hardness>
+        <bulk_modulus>130</bulk_modulus>
+        <density>1.85</density>
+        <thermal_conductivity>190</thermal_conductivity>
+        <electric_conductivity>0.00000025</electric_conductivity>
+        <type>Alkaline Earth Metals</type>
+    </element>
+    <element atomic_number = "5">
+        <period>2</period>
+        <group>13</group>
+        <symbol>B</symbol>
+        <name>Boron</name>
+        <weight>10.811</weight>
+        <electronegativity>2.04</electronegativity>
+        <melting_point>2349</melting_point>
+        <boiling_point>4200</boiling_point>
+        <electron_affinity>0.279 723</electron_affinity>
+        <ionization_energy>800.6</ionization_energy>
+        <radius>87</radius>
+        <mohs_hardness>9.4</mohs_hardness>
+        <bulk_modulus>185</bulk_modulus>
+        <density>2.34</density>
+        <thermal_conductivity>27</thermal_conductivity>
+        <electric_conductivity>0.0001</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+
+    <element atomic_number = "6">
+        <period>2</period>
+        <group>14</group>
+        <symbol>C</symbol>
+        <name>Carbon</name>
+        <weight>12.0107</weight>
+        <electronegativity>2.55</electronegativity>
+        <melting_point>4000</melting_point>
+        <boiling_point>4300</boiling_point>
+        <electron_affinity>1.262 122 6</electron_affinity>
+        <ionization_energy>1086.5</ionization_energy>
+        <radius>67</radius>
+        <mohs_hardness>0.5</mohs_hardness>
+        <bulk_modulus>33</bulk_modulus>
+        <density>2.267</density>
+        <thermal_conductivity>140</thermal_conductivity>
+        <electric_conductivity>100000</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "7">
+        <period>2</period>
+        <group>15</group>
+        <symbol>N</symbol>
+        <name>Nitrogen</name>
+        <weight>14.0067</weight>
+        <electronegativity>3.04</electronegativity>
+        <melting_point>63.15</melting_point>
+        <boiling_point>77.36</boiling_point>
+        <electron_affinity>0.07</electron_affinity>
+        <ionization_energy>1402.3</ionization_energy>
+        <radius>56</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.0012506</density>
+        <thermal_conductivity>0.02583</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "8">
+        <period>2</period>
+        <group>16</group>
+        <symbol>O</symbol>
+        <name>Oxygen</name>
+        <weight>15.9994</weight>
+        <electronegativity>3.44</electronegativity>
+        <melting_point>54.36</melting_point>
+        <boiling_point>90.20</boiling_point>
+        <electron_affinity>1.461 113 4</electron_affinity>
+        <ionization_energy>1313.9</ionization_energy>
+        <radius>48</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.001429</density>
+        <thermal_conductivity>0.02658</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "9">
+        <period>2</period>
+        <group>17</group>
+        <symbol>F</symbol>
+        <name>Fluorine</name>
+        <weight>18.9984</weight>
+        <electronegativity>3.98</electronegativity>
+        <melting_point>53.53</melting_point>
+        <boiling_point>85.03</boiling_point>
+        <electron_affinity>3.401 189 8</electron_affinity>
+        <ionization_energy>1681.0</ionization_energy>
+        <radius>42</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.001696</density>
+        <thermal_conductivity>0.0277</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+    <element atomic_number = "10">
+        <period>2</period>
+        <group>18</group>
+        <symbol>Ne</symbol>
+        <name>Neon</name>
+        <weight>20.1797</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>24.56</melting_point>
+        <boiling_point>27.07</boiling_point>
+        <electron_affinity>-1.2</electron_affinity>
+        <ionization_energy>2080.7</ionization_energy>
+        <radius>38</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.0009002</density>
+        <thermal_conductivity>0.0491</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Nobel Gases</type>
+    </element>
+
+    <element atomic_number = "11">
+        <period>3</period>
+        <group>1</group>
+        <symbol>Na</symbol>
+        <name>Sodium</name>
+        <weight>22.9897</weight>
+        <electronegativity>0.93</electronegativity>
+        <melting_point>370.87</melting_point>
+        <boiling_point>1156</boiling_point>
+        <electron_affinity>0.547 926</electron_affinity>
+        <ionization_energy>495.8</ionization_energy>
+        <radius>190</radius>
+        <mohs_hardness>0.5</mohs_hardness>
+        <bulk_modulus>6.3</bulk_modulus>
+        <density>0.968</density>
+        <thermal_conductivity>140</thermal_conductivity>
+        <electric_conductivity>21000000</electric_conductivity>
+        <type>Alkali Metals</type>
+    </element>
+
+    <element atomic_number = "12">
+        <period>3</period>
+        <group>2</group>
+        <symbol>Mg</symbol>
+        <name>Magnesium</name>
+        <weight>24.305</weight>
+        <electronegativity>1.31</electronegativity>
+        <melting_point>923</melting_point>
+        <boiling_point>1363</boiling_point>
+        <electron_affinity>-0.4</electron_affinity>
+        <ionization_energy>737.7</ionization_energy>
+        <radius>145</radius>
+        <mohs_hardness>2.5</mohs_hardness>
+        <bulk_modulus>45</bulk_modulus>
+        <density>1.738</density>
+        <thermal_conductivity>160</thermal_conductivity>
+        <electric_conductivity>23000000</electric_conductivity>
+        <type>Alkaline Earth Metals</type>
+    </element>
+
+    <element atomic_number = "13">
+        <period>3</period>
+        <group>13</group>
+        <symbol>Al</symbol>
+        <name>Aluminium</name>
+        <weight>26.9815</weight>
+        <electronegativity>1.61</electronegativity>
+        <melting_point>933.47</melting_point>
+        <boiling_point>2792</boiling_point>
+        <electron_affinity>0.432 83</electron_affinity>
+        <ionization_energy>577.5</ionization_energy>
+        <radius>118</radius>
+        <mohs_hardness>2.75</mohs_hardness>
+        <bulk_modulus>76</bulk_modulus>
+        <density>2.70</density>
+        <thermal_conductivity>235</thermal_conductivity>
+        <electric_conductivity>38000000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+
+    <element atomic_number = "14">
+        <period>3</period>
+        <group>14</group>
+        <symbol>Si</symbol>
+        <name>Silicon</name>
+        <weight>28.0855</weight>
+        <electronegativity>1.9</electronegativity>
+        <melting_point>1687</melting_point>
+        <boiling_point>3538</boiling_point>
+        <electron_affinity>1.389 521 2</electron_affinity>
+        <ionization_energy>786.5</ionization_energy>
+        <radius>111</radius>
+        <mohs_hardness>6.5</mohs_hardness>
+        <bulk_modulus>100</bulk_modulus>
+        <density>2.70</density>
+        <thermal_conductivity>150</thermal_conductivity>
+        <electric_conductivity>1000</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+    <element atomic_number = "15">
+        <period>3</period>
+        <group>15</group>
+        <symbol>P</symbol>
+        <name>Phosphorus</name>
+        <weight>30.9738</weight>
+        <electronegativity>2.19</electronegativity>
+        <melting_point>317.30</melting_point>
+        <boiling_point>550</boiling_point>
+        <electron_affinity>0.746 609</electron_affinity>
+        <ionization_energy>1011.8</ionization_energy>
+        <radius>98</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>11</bulk_modulus>
+        <density>1.823</density>
+        <thermal_conductivity>0.236</thermal_conductivity>
+        <electric_conductivity>10000000</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "16">
+        <period>3</period>
+        <group>16</group>
+        <symbol>S</symbol>
+        <name>Sulphur</name>
+        <weight>32.065</weight>
+        <electronegativity>2.58</electronegativity>
+        <melting_point>388.36</melting_point>
+        <boiling_point>717.87</boiling_point>
+        <electron_affinity>2.077 104 2</electron_affinity>
+        <ionization_energy>999.6</ionization_energy>
+        <radius>88</radius>
+        <mohs_hardness>2.0</mohs_hardness>
+        <bulk_modulus>7.7</bulk_modulus>
+        <density>2.07</density>
+        <thermal_conductivity>0.205</thermal_conductivity>
+        <electric_conductivity>0.000000000000001</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "17">
+        <period>3</period>
+        <group>17</group>
+        <symbol>Cl</symbol>
+        <name>Chlorine</name>
+        <weight>35.453</weight>
+        <electronegativity>3.16</electronegativity>
+        <melting_point>171.6</melting_point>
+        <boiling_point>239.11</boiling_point>
+        <electron_affinity>3.612 725</electron_affinity>
+        <ionization_energy>1251.2</ionization_energy>
+        <radius>79</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.0032</density>
+        <thermal_conductivity>0.0089</thermal_conductivity>
+        <electric_conductivity>0.01</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "18">
+        <period>3</period>
+        <group>18</group>
+        <symbol>Ar</symbol>
+        <name>Argon</name>
+        <weight>39.948</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>83.80</melting_point>
+        <boiling_point>87.30</boiling_point>
+        <electron_affinity>-1.0</electron_affinity>
+        <ionization_energy>1520.6</ionization_energy>
+        <radius>71</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.001784</density>
+        <thermal_conductivity>0.01772</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Nobel Gases</type>
+    </element>
+
+    <element atomic_number = "19">
+        <period>4</period>
+        <group>1</group>
+        <symbol>K</symbol>
+        <name>Potassium</name>
+        <weight>39.0983</weight>
+        <electronegativity>0.82</electronegativity>
+        <melting_point>336.53</melting_point>
+        <boiling_point>1032</boiling_point>
+        <electron_affinity>0.501 459</electron_affinity>
+        <ionization_energy>418.8</ionization_energy>
+        <radius>243</radius>
+        <mohs_hardness>0.4</mohs_hardness>
+        <bulk_modulus>3.1</bulk_modulus>
+        <density>0.89</density>
+        <thermal_conductivity>100</thermal_conductivity>
+        <electric_conductivity>14000000</electric_conductivity>
+        <type>Alkali Metals</type>
+    </element>
+    <element atomic_number = "20">
+        <period>4</period>
+        <group>2</group>
+        <symbol>Ca</symbol>
+        <name>Calcium</name>
+        <weight>40.078</weight>
+        <electronegativity>1.00</electronegativity>
+        <melting_point>1115</melting_point>
+        <boiling_point>1757</boiling_point>
+        <electron_affinity>0.024 55</electron_affinity>
+        <ionization_energy>589.8</ionization_energy>
+        <radius>194</radius>
+        <mohs_hardness>1.75</mohs_hardness>
+        <bulk_modulus>17</bulk_modulus>
+        <density>1.55</density>
+        <thermal_conductivity>200</thermal_conductivity>
+        <electric_conductivity>29000000</electric_conductivity>
+        <type>Alkaline Earth Metals</type>
+    </element>
+    <element atomic_number = "21">
+        <period>4</period>
+        <group>3</group>
+        <symbol>Sc</symbol>
+        <name>Scandium</name>
+        <weight>44.956</weight>
+        <electronegativity>1.36</electronegativity>
+        <melting_point>1814</melting_point>
+        <boiling_point>3109</boiling_point>
+        <electron_affinity>0.188</electron_affinity>
+        <ionization_energy>633.1</ionization_energy>
+        <radius>184</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>56.6</bulk_modulus>
+        <density>2.985</density>
+        <thermal_conductivity>16</thermal_conductivity>
+        <electric_conductivity>1800000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "22">
+        <period>4</period>
+        <group>4</group>
+        <symbol>Ti</symbol>
+        <name>Titanium</name>
+        <weight>47.867</weight>
+        <electronegativity>1.54</electronegativity>
+        <melting_point>1941</melting_point>
+        <boiling_point>3560</boiling_point>
+        <electron_affinity>0.075 54</electron_affinity>
+        <ionization_energy>658.8</ionization_energy>
+        <radius>176</radius>
+        <mohs_hardness>6.0</mohs_hardness>
+        <bulk_modulus>110</bulk_modulus>
+        <density>4.506</density>
+        <thermal_conductivity>22</thermal_conductivity>
+        <electric_conductivity>2500000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "23">
+        <period>4</period>
+        <group>5</group>
+        <symbol>V</symbol>
+        <name>Vanadium</name>
+        <weight>50.942</weight>
+        <electronegativity>1.63</electronegativity>
+        <melting_point>2183</melting_point>
+        <boiling_point>3680</boiling_point>
+        <electron_affinity>0.527 66</electron_affinity>
+        <ionization_energy>650.9</ionization_energy>
+        <radius>171</radius>
+        <mohs_hardness>7.0</mohs_hardness>
+        <bulk_modulus>160</bulk_modulus>
+        <density>6.11</density>
+        <thermal_conductivity>31</thermal_conductivity>
+        <electric_conductivity>5000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "24">
+        <period>4</period>
+        <group>6</group>
+        <symbol>Cr</symbol>
+        <name>Chromium</name>
+        <weight>51.996</weight>
+        <electronegativity>1.66</electronegativity>
+        <melting_point>2180</melting_point>
+        <boiling_point>2944</boiling_point>
+        <electron_affinity>0.675 84</electron_affinity>
+        <ionization_energy>652.9</ionization_energy>
+        <radius>166</radius>
+        <mohs_hardness>8.5</mohs_hardness>
+        <bulk_modulus>160</bulk_modulus>
+        <density>7.15</density>
+        <thermal_conductivity>94</thermal_conductivity>
+        <electric_conductivity>7900000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "25">
+        <period>4</period>
+        <group>7</group>
+        <symbol>Mn</symbol>
+        <name>Manganese</name>
+        <weight>54.938</weight>
+        <electronegativity>1.55</electronegativity>
+        <melting_point>1519</melting_point>
+        <boiling_point>2334</boiling_point>
+        <electron_affinity>-0.5</electron_affinity>
+        <ionization_energy>717.3</ionization_energy>
+        <radius>161</radius>
+        <mohs_hardness>6.0</mohs_hardness>
+        <bulk_modulus>120</bulk_modulus>
+        <density>7.21</density>
+        <thermal_conductivity>7.8</thermal_conductivity>
+        <electric_conductivity>620000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "26">
+        <period>4</period>
+        <group>8</group>
+        <symbol>Fe</symbol>
+        <name>Iron</name>
+        <weight>55.845</weight>
+        <electronegativity>1.83</electronegativity>
+        <melting_point>1811</melting_point>
+        <boiling_point>3134</boiling_point>
+        <electron_affinity>0.153 236</electron_affinity>
+        <ionization_energy>762.5</ionization_energy>
+        <radius>156</radius>
+        <mohs_hardness>4.0</mohs_hardness>
+        <bulk_modulus>170</bulk_modulus>
+        <density>7.874</density>
+        <thermal_conductivity>80</thermal_conductivity>
+        <electric_conductivity>10000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "27">
+        <period>4</period>
+        <group>9</group>
+        <symbol>Co</symbol>
+        <name>Cobalt</name>
+        <weight>58.933</weight>
+        <electronegativity>1.88</electronegativity>
+        <melting_point>1768</melting_point>
+        <boiling_point>3200</boiling_point>
+        <electron_affinity>0.662 26</electron_affinity>
+        <ionization_energy>760.4</ionization_energy>
+        <radius>152</radius>
+        <mohs_hardness>5.0</mohs_hardness>
+        <bulk_modulus>180</bulk_modulus>
+        <density>8.90</density>
+        <thermal_conductivity>100</thermal_conductivity>
+        <electric_conductivity>17000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "28">
+        <period>4</period>
+        <group>10</group>
+        <symbol>Ni</symbol>
+        <name>Nickel</name>
+        <weight>58.693</weight>
+        <electronegativity>1.91</electronegativity>
+        <melting_point>1728</melting_point>
+        <boiling_point>3186</boiling_point>
+        <electron_affinity>1.157 16</electron_affinity>
+        <ionization_energy>737.1</ionization_energy>
+        <radius>149</radius>
+        <mohs_hardness>4.0</mohs_hardness>
+        <bulk_modulus>180</bulk_modulus>
+        <density>8.908</density>
+        <thermal_conductivity>91</thermal_conductivity>
+        <electric_conductivity>14000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "29">
+        <period>4</period>
+        <group>11</group>
+        <symbol>Cu</symbol>
+        <name>Copper</name>
+        <weight>63.546</weight>
+        <electronegativity>1.90</electronegativity>
+        <melting_point>1357.77</melting_point>
+        <boiling_point>2835</boiling_point>
+        <electron_affinity>1.235 78</electron_affinity>
+        <ionization_energy>745.5</ionization_energy>
+        <radius>145</radius>
+        <mohs_hardness>3.0</mohs_hardness>
+        <bulk_modulus>140</bulk_modulus>
+        <density>8.96</density>
+        <thermal_conductivity>400</thermal_conductivity>
+        <electric_conductivity>59000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "30">
+        <period>4</period>
+        <group>12</group>
+        <symbol>Zn</symbol>
+        <name>Zinc</name>
+        <weight>65.38</weight>
+        <electronegativity>1.65</electronegativity>
+        <melting_point>692.88</melting_point>
+        <boiling_point>1180</boiling_point>
+        <electron_affinity>-0.6</electron_affinity>
+        <ionization_energy>906.4</ionization_energy>
+        <radius>142</radius>
+        <mohs_hardness>2.5</mohs_hardness>
+        <bulk_modulus>70</bulk_modulus>
+        <density>7.14</density>
+        <thermal_conductivity>120</thermal_conductivity>
+        <electric_conductivity>17000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "31">
+        <period>4</period>
+        <group>13</group>
+        <symbol>Ga</symbol>
+        <name>Gallium</name>
+        <weight>69.723</weight>
+        <electronegativity>1.81</electronegativity>
+        <melting_point>302.9146</melting_point>
+        <boiling_point>2673</boiling_point>
+        <electron_affinity>0.301 20</electron_affinity>
+        <ionization_energy>578.8</ionization_energy>
+        <radius>136</radius>
+        <mohs_hardness>1.5</mohs_hardness>
+        <bulk_modulus>56</bulk_modulus>
+        <density>5.91</density>
+        <thermal_conductivity>29</thermal_conductivity>
+        <electric_conductivity>7100000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+
+    <element atomic_number = "32">
+        <period>4</period>
+        <group>14</group>
+        <symbol>Ge</symbol>
+        <name>Germanium</name>
+        <weight>72.630</weight>
+        <electronegativity>2.01</electronegativity>
+        <melting_point>1211.40</melting_point>
+        <boiling_point>3106</boiling_point>
+        <electron_affinity>1.232 676 4</electron_affinity>
+        <ionization_energy>762</ionization_energy>
+        <radius>125</radius>
+        <mohs_hardness>6.0</mohs_hardness>
+        <bulk_modulus>75.8</bulk_modulus>
+        <density>5.323</density>
+        <thermal_conductivity>60</thermal_conductivity>
+        <electric_conductivity>2000</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+
+    <element atomic_number = "33">
+        <period>4</period>
+        <group>15</group>
+        <symbol>As</symbol>
+        <name>Arsenic</name>
+        <weight>74.922</weight>
+        <electronegativity>2.18</electronegativity>
+        <melting_point>1090</melting_point>
+        <boiling_point>887</boiling_point>
+        <electron_affinity>0.804 8</electron_affinity>
+        <ionization_energy>947.0</ionization_energy>
+        <radius>114</radius>
+        <mohs_hardness>3.5</mohs_hardness>
+        <bulk_modulus>22</bulk_modulus>
+        <density>5.727</density>
+        <thermal_conductivity>50</thermal_conductivity>
+        <electric_conductivity>3300000</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+
+    <element atomic_number = "34">
+        <period>4</period>
+        <group>16</group>
+        <symbol>Se</symbol>
+        <name>Selenium</name>
+        <weight>78.971</weight>
+        <electronegativity>2.55</electronegativity>
+        <melting_point>453</melting_point>
+        <boiling_point>958</boiling_point>
+        <electron_affinity>2.020 604 7</electron_affinity>
+        <ionization_energy>1139.8581</ionization_energy>
+        <radius>103</radius>
+        <mohs_hardness>2.0</mohs_hardness>
+        <bulk_modulus>8.3</bulk_modulus>
+        <density>4.81</density>
+        <thermal_conductivity>0.52</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+    <element atomic_number = "35">
+        <period>4</period>
+        <group>17</group>
+        <symbol>Br</symbol>
+        <name>Bromine</name>
+        <weight>79.904</weight>
+        <electronegativity>2.96</electronegativity>
+        <melting_point>265.8</melting_point>
+        <boiling_point>332.0</boiling_point>
+        <electron_affinity>3.363 588</electron_affinity>
+        <ionization_energy>1139.9</ionization_energy>
+        <radius>94</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>3.1028</density>
+        <thermal_conductivity>0.12</thermal_conductivity>
+        <electric_conductivity>0.0000000001</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "36">
+        <period>4</period>
+        <group>18</group>
+        <symbol>Kr</symbol>
+        <name>Krypton</name>
+        <weight>83.798</weight>
+        <electronegativity>3.00</electronegativity>
+        <melting_point>115.79</melting_point>
+        <boiling_point>119.93</boiling_point>
+        <electron_affinity>-1.0</electron_affinity>
+        <ionization_energy>1350.8</ionization_energy>
+        <radius>88</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.003749</density>
+        <thermal_conductivity>0.00943</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Nobel Gases</type>
+    </element>
+
+    <element atomic_number = "37">
+        <period>5</period>
+        <group>1</group>
+        <symbol>Rb</symbol>
+        <name>Rubidium</name>
+        <weight>85.468</weight>
+        <electronegativity>0.82</electronegativity>
+        <melting_point>312.46</melting_point>
+        <boiling_point>961</boiling_point>
+        <electron_affinity>0.485 916</electron_affinity>
+        <ionization_energy>403.0</ionization_energy>
+        <radius>265</radius>
+        <mohs_hardness>0.3</mohs_hardness>
+        <bulk_modulus>2.5</bulk_modulus>
+        <density>1.532</density>
+        <thermal_conductivity>58</thermal_conductivity>
+        <electric_conductivity>8300000</electric_conductivity>
+        <type>Alkali Metals</type>
+    </element>
+
+    <element atomic_number = "38">
+        <period>5</period>
+        <group>2</group>
+        <symbol>Sr</symbol>
+        <name>Strontium</name>
+        <weight>87.62</weight>
+        <electronegativity>0.95</electronegativity>
+        <melting_point>1050</melting_point>
+        <boiling_point>1655</boiling_point>
+        <electron_affinity>0.052 06</electron_affinity>
+        <ionization_energy>549.5</ionization_energy>
+        <radius>219</radius>
+        <mohs_hardness>1.5</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>2.64</density>
+        <thermal_conductivity>35</thermal_conductivity>
+        <electric_conductivity>7700000</electric_conductivity>
+        <type>Alkaline Earth Metals</type>
+    </element>
+
+    <element atomic_number = "39">
+        <period>5</period>
+        <group>3</group>
+        <symbol>Y</symbol>
+        <name>Yttrium</name>
+        <weight>88.906</weight>
+        <electronegativity>1.22</electronegativity>
+        <melting_point>1799</melting_point>
+        <boiling_point>3609</boiling_point>
+        <electron_affinity>0.307</electron_affinity>
+        <ionization_energy>600</ionization_energy>
+        <radius>212</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>41.2</bulk_modulus>
+        <density>4.472</density>
+        <thermal_conductivity>17</thermal_conductivity>
+        <electric_conductivity>1800000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "40">
+        <period>5</period>
+        <group>4</group>
+        <symbol>Zr</symbol>
+        <name>Zirconium</name>
+        <weight>91.224</weight>
+        <electronegativity>1.33</electronegativity>
+        <melting_point>2128</melting_point>
+        <boiling_point>4682</boiling_point>
+        <electron_affinity>0.433 28</electron_affinity>
+        <ionization_energy>640.1</ionization_energy>
+        <radius>206</radius>
+        <mohs_hardness>5.0</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>6.52</density>
+        <thermal_conductivity>23</thermal_conductivity>
+        <electric_conductivity>2400000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "41">
+        <period>5</period>
+        <group>5</group>
+        <symbol>Nb</symbol>
+        <name>Niobium</name>
+        <weight>92.906</weight>
+        <electronegativity>1.6</electronegativity>
+        <melting_point>2750</melting_point>
+        <boiling_point>5017</boiling_point>
+        <electron_affinity>0.917 40</electron_affinity>
+        <ionization_energy>652.1</ionization_energy>
+        <radius>198</radius>
+        <mohs_hardness>6.0</mohs_hardness>
+        <bulk_modulus>170</bulk_modulus>
+        <density>8.57</density>
+        <thermal_conductivity>54</thermal_conductivity>
+        <electric_conductivity>6700000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "42">
+        <period>5</period>
+        <group>6</group>
+        <symbol>Mo</symbol>
+        <name>Molybdenum</name>
+        <weight>95.95</weight>
+        <electronegativity>2.16</electronegativity>
+        <melting_point>2896</melting_point>
+        <boiling_point>4912</boiling_point>
+        <electron_affinity>0.747 3</electron_affinity>
+        <ionization_energy>684.3</ionization_energy>
+        <radius>190</radius>
+        <mohs_hardness>5.5</mohs_hardness>
+        <bulk_modulus>230</bulk_modulus>
+        <density>10.28</density>
+        <thermal_conductivity>139</thermal_conductivity>
+        <electric_conductivity>20000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "43">
+        <period>5</period>
+        <group>7</group>
+        <symbol>Tc</symbol>
+        <name>Technetium</name>
+        <weight>97</weight>
+        <electronegativity>1.9</electronegativity>
+        <melting_point>2430</melting_point>
+        <boiling_point>4538</boiling_point>
+        <electron_affinity>0.55</electron_affinity>
+        <ionization_energy>702</ionization_energy>
+        <radius>183</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>11</density>
+        <thermal_conductivity>51</thermal_conductivity>
+        <electric_conductivity>5000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "44">
+        <period>5</period>
+        <group>8</group>
+        <symbol>Ru</symbol>
+        <name>Ruthenium</name>
+        <weight>101.07</weight>
+        <electronegativity>2.2</electronegativity>
+        <melting_point>2607</melting_point>
+        <boiling_point>4423</boiling_point>
+        <electron_affinity>1.046 38</electron_affinity>
+        <ionization_energy>710.2</ionization_energy>
+        <radius>178</radius>
+        <mohs_hardness>6.5</mohs_hardness>
+        <bulk_modulus>220</bulk_modulus>
+        <density>12.45</density>
+        <thermal_conductivity>120</thermal_conductivity>
+        <electric_conductivity>14000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "45">
+        <period>5</period>
+        <group>9</group>
+        <symbol>Rh</symbol>
+        <name>Rhodium</name>
+        <weight>102.91</weight>
+        <electronegativity>2.28</electronegativity>
+        <melting_point>2237</melting_point>
+        <boiling_point>3968</boiling_point>
+        <electron_affinity>1.142 89</electron_affinity>
+        <ionization_energy>719.7</ionization_energy>
+        <radius>173</radius>
+        <mohs_hardness>6.0</mohs_hardness>
+        <bulk_modulus>380</bulk_modulus>
+        <density>12.41</density>
+        <thermal_conductivity>150</thermal_conductivity>
+        <electric_conductivity>23000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "46">
+        <period>5</period>
+        <group>10</group>
+        <symbol>Pd</symbol>
+        <name>Palladium</name>
+        <weight>106.42</weight>
+        <electronegativity>2.20</electronegativity>
+        <melting_point>1828.05</melting_point>
+        <boiling_point>3236</boiling_point>
+        <electron_affinity>0.562 14</electron_affinity>
+        <ionization_energy>804.4</ionization_energy>
+        <radius>169</radius>
+        <mohs_hardness>4.75</mohs_hardness>
+        <bulk_modulus>180</bulk_modulus>
+        <density>12.023</density>
+        <thermal_conductivity>72</thermal_conductivity>
+        <electric_conductivity>10000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "47">
+        <period>5</period>
+        <group>11</group>
+        <symbol>Ag</symbol>
+        <name>Silver</name>
+        <weight>107.87</weight>
+        <electronegativity>1.93</electronegativity>
+        <melting_point>1234.93</melting_point>
+        <boiling_point>2435</boiling_point>
+        <electron_affinity>1.304 47</electron_affinity>
+        <ionization_energy>731.0</ionization_energy>
+        <radius>165</radius>
+        <mohs_hardness>2.5</mohs_hardness>
+        <bulk_modulus>100</bulk_modulus>
+        <density>10.49</density>
+        <thermal_conductivity>430</thermal_conductivity>
+        <electric_conductivity>62000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "48">
+        <period>5</period>
+        <group>12</group>
+        <symbol>Cd</symbol>
+        <name>Cadmium</name>
+        <weight>112.41</weight>
+        <electronegativity>1.69</electronegativity>
+        <melting_point>594.22</melting_point>
+        <boiling_point>1040</boiling_point>
+        <electron_affinity>-0.7</electron_affinity>
+        <ionization_energy>867.8</ionization_energy>
+        <radius>161</radius>
+        <mohs_hardness>2.0</mohs_hardness>
+        <bulk_modulus>42</bulk_modulus>
+        <density>8.65</density>
+        <thermal_conductivity>97</thermal_conductivity>
+        <electric_conductivity>14000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "49">
+        <period>5</period>
+        <group>13</group>
+        <symbol>In</symbol>
+        <name>Indium</name>
+        <weight>114.82</weight>
+        <electronegativity>1.78</electronegativity>
+        <melting_point>429.75</melting_point>
+        <boiling_point>2345</boiling_point>
+        <electron_affinity>0.383 92</electron_affinity>
+        <ionization_energy>558.3</ionization_energy>
+        <radius>156</radius>
+        <mohs_hardness>1.2</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>7.31</density>
+        <thermal_conductivity>82</thermal_conductivity>
+        <electric_conductivity>12000000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+    <element atomic_number = "50">
+        <period>5</period>
+        <group>14</group>
+        <symbol>Sn</symbol>
+        <name>Tin</name>
+        <weight>118.71</weight>
+        <electronegativity>1.96</electronegativity>
+        <melting_point>505.08</melting_point>
+        <boiling_point>2875</boiling_point>
+        <electron_affinity>1.112 070</electron_affinity>
+        <ionization_energy>708.6</ionization_energy>
+        <radius>145</radius>
+        <mohs_hardness>1.5</mohs_hardness>
+        <bulk_modulus>58</bulk_modulus>
+        <density>7.265</density>
+        <thermal_conductivity>67</thermal_conductivity>
+        <electric_conductivity>9100000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+
+    <element atomic_number = "51">
+        <period>5</period>
+        <group>15</group>
+        <symbol>Sb</symbol>
+        <name>Antimony</name>
+        <weight>121.76</weight>
+        <electronegativity>2.05</electronegativity>
+        <melting_point>903.78</melting_point>
+        <boiling_point>1860</boiling_point>
+        <electron_affinity>1.047 401</electron_affinity>
+        <ionization_energy>834</ionization_energy>
+        <radius>133</radius>
+        <mohs_hardness>3.0</mohs_hardness>
+        <bulk_modulus>42</bulk_modulus>
+        <density>6.697</density>
+        <thermal_conductivity>24</thermal_conductivity>
+        <electric_conductivity>2500000</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+
+    <element atomic_number = "52">
+        <period>5</period>
+        <group>16</group>
+        <symbol>Te</symbol>
+        <name>Tellurium</name>
+        <weight>127.60</weight>
+        <electronegativity>2.1</electronegativity>
+        <melting_point>722.66</melting_point>
+        <boiling_point>1261</boiling_point>
+        <electron_affinity>1.970 875</electron_affinity>
+        <ionization_energy>869.3</ionization_energy>
+        <radius>123</radius>
+        <mohs_hardness>2.25</mohs_hardness>
+        <bulk_modulus>65</bulk_modulus>
+        <density>6.24</density>
+        <thermal_conductivity>3</thermal_conductivity>
+        <electric_conductivity>10000</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+
+    <element atomic_number = "53">
+        <period>5</period>
+        <group>17</group>
+        <symbol>I</symbol>
+        <name>Iodine</name>
+        <weight>126.90</weight>
+        <electronegativity>2.66</electronegativity>
+        <melting_point>386.85</melting_point>
+        <boiling_point>457.4</boiling_point>
+        <electron_affinity>3.059 046 5</electron_affinity>
+        <ionization_energy>1008.4</ionization_energy>
+        <radius>115</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>7.7</bulk_modulus>
+        <density>4.933</density>
+        <thermal_conductivity>0.449</thermal_conductivity>
+        <electric_conductivity>0.0000007</electric_conductivity>
+        <type>Reactive Non-metals</type>
+    </element>
+
+    <element atomic_number = "54">
+        <period>5</period>
+        <group>18</group>
+        <symbol>Xe</symbol>
+        <name>Xenon</name>
+        <weight>131.29</weight>
+        <electronegativity>2.60</electronegativity>
+        <melting_point>161.4</melting_point>
+        <boiling_point>165.03</boiling_point>
+        <electron_affinity>-0.8</electron_affinity>
+        <ionization_energy>1170.4</ionization_energy>
+        <radius>108</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.005894</density>
+        <thermal_conductivity>0.00565</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Nobel Gases</type>
+    </element>
+    <element atomic_number = "55">
+        <period>6</period>
+        <group>1</group>
+        <symbol>Cs</symbol>
+        <name>Cesium</name>
+        <weight>132.91</weight>
+        <electronegativity>0.79</electronegativity>
+        <melting_point>301.59</melting_point>
+        <boiling_point>944</boiling_point>
+        <electron_affinity>0.471 630</electron_affinity>
+        <ionization_energy>375.7</ionization_energy>
+        <radius>298</radius>
+        <mohs_hardness>0.2</mohs_hardness>
+        <bulk_modulus>1.6</bulk_modulus>
+        <density>1.93</density>
+        <thermal_conductivity>36</thermal_conductivity>
+        <electric_conductivity>5000000</electric_conductivity>
+        <type>Alkali Metals</type>
+    </element>
+
+    <element atomic_number = "56">
+        <period>6</period>
+        <group>2</group>
+        <symbol>Ba</symbol>
+        <name>Barium</name>
+        <weight>137.33</weight>
+        <electronegativity>0.89</electronegativity>
+        <melting_point>1000</melting_point>
+        <boiling_point>2170</boiling_point>
+        <electron_affinity>0.144 62</electron_affinity>
+        <ionization_energy>502.9</ionization_energy>
+        <radius>253</radius>
+        <mohs_hardness>1.25</mohs_hardness>
+        <bulk_modulus>9.6</bulk_modulus>
+        <density>3.51</density>
+        <thermal_conductivity>18</thermal_conductivity>
+        <electric_conductivity>2900000</electric_conductivity>
+        <type>Alkaline Earth Metals</type>
+    </element>
+
+    <element atomic_number = "57">
+        <period>6</period>
+        <group>3</group>
+        <symbol>La</symbol>
+        <name>Lanthanum</name>
+        <weight>138.91</weight>
+        <electronegativity>1.1</electronegativity>
+        <melting_point>1193</melting_point>
+        <boiling_point>3737</boiling_point>
+        <electron_affinity>0.557 546</electron_affinity>
+        <ionization_energy>538.1</ionization_energy>
+        <radius>226</radius>
+        <mohs_hardness>2.5</mohs_hardness>
+        <bulk_modulus>27.9</bulk_modulus>
+        <density>6.162</density>
+        <thermal_conductivity>13</thermal_conductivity>
+        <electric_conductivity>1600000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "58">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Ce</symbol>
+        <name>Cerium</name>
+        <weight>140.12</weight>
+        <electronegativity>1.12</electronegativity>
+        <melting_point>1068</melting_point>
+        <boiling_point>3716</boiling_point>
+        <electron_affinity>0.57</electron_affinity>
+        <ionization_energy>534.4</ionization_energy>
+        <radius>210</radius>
+        <mohs_hardness>2.5</mohs_hardness>
+        <bulk_modulus>21.5</bulk_modulus>
+        <density>6.770</density>
+        <thermal_conductivity>11</thermal_conductivity>
+        <electric_conductivity>1400000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "59">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Pr</symbol>
+        <name>Praseodymium</name>
+        <weight>140.91</weight>
+        <electronegativity>1.13</electronegativity>
+        <melting_point>1208</melting_point>
+        <boiling_point>3793</boiling_point>
+        <electron_affinity>0.109 23</electron_affinity>
+        <ionization_energy>527</ionization_energy>
+        <radius>247</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>28.8</bulk_modulus>
+        <density>6.77</density>
+        <thermal_conductivity>13</thermal_conductivity>
+        <electric_conductivity>1400000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+    <element atomic_number = "60">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Nd</symbol>
+        <name>Neodymium</name>
+        <weight>144.24</weight>
+        <electronegativity>1.14</electronegativity>
+        <melting_point>1297</melting_point>
+        <boiling_point>3347</boiling_point>
+        <electron_affinity>0.097 49</electron_affinity>
+        <ionization_energy>533.1</ionization_energy>
+        <radius>206</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>31.8</bulk_modulus>
+        <density>7.01</density>
+        <thermal_conductivity>17</thermal_conductivity>
+        <electric_conductivity>1600000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+    <element atomic_number = "61">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Pm</symbol>
+        <name>Promethium</name>
+        <weight>145</weight>
+        <electronegativity>1.13</electronegativity>
+        <melting_point>1315</melting_point>
+        <boiling_point>3273</boiling_point>
+        <electron_affinity>0.129</electron_affinity>
+        <ionization_energy>540</ionization_energy>
+        <radius>205</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>33</bulk_modulus>
+        <density>7.26</density>
+        <thermal_conductivity>15</thermal_conductivity>
+        <electric_conductivity>1300000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "62">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Sm</symbol>
+        <name>Samarium</name>
+        <weight>150.36</weight>
+        <electronegativity>1.17</electronegativity>
+        <melting_point>1345</melting_point>
+        <boiling_point>2067</boiling_point>
+        <electron_affinity>0.162</electron_affinity>
+        <ionization_energy>544.5</ionization_energy>
+        <radius>238</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>37.8</bulk_modulus>
+        <density>7.52</density>
+        <thermal_conductivity>13</thermal_conductivity>
+        <electric_conductivity>1100000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "63">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Eu</symbol>
+        <name>Europium</name>
+        <weight>151.96</weight>
+        <electronegativity>1.2</electronegativity>
+        <melting_point>1099</melting_point>
+        <boiling_point>1802</boiling_point>
+        <electron_affinity>0.116</electron_affinity>
+        <ionization_energy>547.1</ionization_energy>
+        <radius>231</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>8.3</bulk_modulus>
+        <density>5.244</density>
+        <thermal_conductivity>14</thermal_conductivity>
+        <electric_conductivity>1100000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "64">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Gd</symbol>
+        <name>Gadolinium</name>
+        <weight>157.25</weight>
+        <electronegativity>1.2</electronegativity>
+        <melting_point>1585</melting_point>
+        <boiling_point>3546</boiling_point>
+        <electron_affinity>0.137</electron_affinity>
+        <ionization_energy>593.4</ionization_energy>
+        <radius>233</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>37.9</bulk_modulus>
+        <density>7.90</density>
+        <thermal_conductivity>11</thermal_conductivity>
+        <electric_conductivity>770000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+    <element atomic_number = "65">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Tb</symbol>
+        <name>Terbium</name>
+        <weight>158.93</weight>
+        <electronegativity>1.2</electronegativity>
+        <melting_point>1629</melting_point>
+        <boiling_point>3503</boiling_point>
+        <electron_affinity>0.131 31</electron_affinity>
+        <ionization_energy>565.8</ionization_energy>
+        <radius>225</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>38.7</bulk_modulus>
+        <density>8.23</density>
+        <thermal_conductivity>11</thermal_conductivity>
+        <electric_conductivity>830000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "66">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Dy</symbol>
+        <name>Dysprosium</name>
+        <weight>162.50</weight>
+        <electronegativity>1.22</electronegativity>
+        <melting_point>1680</melting_point>
+        <boiling_point>2840</boiling_point>
+        <electron_affinity>0.352</electron_affinity>
+        <ionization_energy>573.0</ionization_energy>
+        <radius>228</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>40.5</bulk_modulus>
+        <density>8.540</density>
+        <thermal_conductivity>11</thermal_conductivity>
+        <electric_conductivity>1100000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "67">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Ho</symbol>
+        <name>Holmium</name>
+        <weight>164.93</weight>
+        <electronegativity>1.23</electronegativity>
+        <melting_point>1734</melting_point>
+        <boiling_point>2993</boiling_point>
+        <electron_affinity>0.338</electron_affinity>
+        <ionization_energy>581.0</ionization_energy>
+        <radius>226</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>40.2</bulk_modulus>
+        <density>8.79</density>
+        <thermal_conductivity>16</thermal_conductivity>
+        <electric_conductivity>1100000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "68">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Er</symbol>
+        <name>Erbium</name>
+        <weight>167.26</weight>
+        <electronegativity>1.24</electronegativity>
+        <melting_point>1802</melting_point>
+        <boiling_point>3141</boiling_point>
+        <electron_affinity>0.312</electron_affinity>
+        <ionization_energy>589.3</ionization_energy>
+        <radius>226</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>44.4</bulk_modulus>
+        <density>9.066</density>
+        <thermal_conductivity>15</thermal_conductivity>
+        <electric_conductivity>1200000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "69">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Tm</symbol>
+        <name>Thulium</name>
+        <weight>168.93</weight>
+        <electronegativity>1.25</electronegativity>
+        <melting_point>1818</melting_point>
+        <boiling_point>2223</boiling_point>
+        <electron_affinity>1.029</electron_affinity>
+        <ionization_energy>596.7</ionization_energy>
+        <radius>222</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>44.5</bulk_modulus>
+        <density>9.32</density>
+        <thermal_conductivity>17</thermal_conductivity>
+        <electric_conductivity>1400000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+    <element atomic_number = "70">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Yb</symbol>
+        <name>Ytterbium</name>
+        <weight>173.05</weight>
+        <electronegativity>1.1</electronegativity>
+        <melting_point>1097</melting_point>
+        <boiling_point>1469</boiling_point>
+        <electron_affinity>-0.02</electron_affinity>
+        <ionization_energy>603.4</ionization_energy>
+        <radius>222</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>30.5</bulk_modulus>
+        <density>6.90</density>
+        <thermal_conductivity>39</thermal_conductivity>
+        <electric_conductivity>3600000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "71">
+        <period>6</period>
+        <group>3</group>
+        <symbol>Lu</symbol>
+        <name>Lutetium</name>
+        <weight>174.97</weight>
+        <electronegativity>1.27</electronegativity>
+        <melting_point>1925</melting_point>
+        <boiling_point>3675</boiling_point>
+        <electron_affinity>0.238 8</electron_affinity>
+        <ionization_energy>523.5</ionization_energy>
+        <radius>217</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>47.6</bulk_modulus>
+        <density>9.841</density>
+        <thermal_conductivity>16</thermal_conductivity>
+        <electric_conductivity>1800000</electric_conductivity>
+        <type>Lanthanides</type>
+    </element>
+
+    <element atomic_number = "72">
+        <period>6</period>
+        <group>4</group>
+        <symbol>Hf</symbol>
+        <name>Hafnium</name>
+        <weight>178.49</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>2506</melting_point>
+        <boiling_point>4876</boiling_point>
+        <electron_affinity>0.178 0</electron_affinity>
+        <ionization_energy>658.5</ionization_energy>
+        <radius>208</radius>
+        <mohs_hardness>5.5</mohs_hardness>
+        <bulk_modulus>110</bulk_modulus>
+        <density>13.31</density>
+        <thermal_conductivity>23</thermal_conductivity>
+        <electric_conductivity>3300000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "73">
+        <period>6</period>
+        <group>5</group>
+        <symbol>Ta</symbol>
+        <name>Tantalum</name>
+        <weight>180.95</weight>
+        <electronegativity>1.5</electronegativity>
+        <melting_point>3290</melting_point>
+        <boiling_point>5731</boiling_point>
+        <electron_affinity>0.323</electron_affinity>
+        <ionization_energy>761</ionization_energy>
+        <radius>200</radius>
+        <mohs_hardness>6.5</mohs_hardness>
+        <bulk_modulus>200</bulk_modulus>
+        <density>16.69</density>
+        <thermal_conductivity>57</thermal_conductivity>
+        <electric_conductivity>7700000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "74">
+        <period>6</period>
+        <group>6</group>
+        <symbol>W</symbol>
+        <name>Tungsten</name>
+        <weight>183.84</weight>
+        <electronegativity>2.36</electronegativity>
+        <melting_point>3695</melting_point>
+        <boiling_point>5828</boiling_point>
+        <electron_affinity>0.816 26</electron_affinity>
+        <ionization_energy>770</ionization_energy>
+        <radius>193</radius>
+        <mohs_hardness>7.5</mohs_hardness>
+        <bulk_modulus>310</bulk_modulus>
+        <density>19.25</density>
+        <thermal_conductivity>170</thermal_conductivity>
+        <electric_conductivity>20000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "75">
+        <period>6</period>
+        <group>7</group>
+        <symbol>Re</symbol>
+        <name>Rhenium</name>
+        <weight>186.21</weight>
+        <electronegativity>1.9</electronegativity>
+        <melting_point>3459</melting_point>
+        <boiling_point>5869</boiling_point>
+        <electron_affinity>0.060 396</electron_affinity>
+        <ionization_energy>760</ionization_energy>
+        <radius>188</radius>
+        <mohs_hardness>7.0</mohs_hardness>
+        <bulk_modulus>370</bulk_modulus>
+        <density>21.02</density>
+        <thermal_conductivity>48</thermal_conductivity>
+        <electric_conductivity>5600000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "76">
+        <period>6</period>
+        <group>8</group>
+        <symbol>Os</symbol>
+        <name>Osmium</name>
+        <weight>190.23</weight>
+        <electronegativity>2.2</electronegativity>
+        <melting_point>3306</melting_point>
+        <boiling_point>5285</boiling_point>
+        <electron_affinity>1.077 80</electron_affinity>
+        <ionization_energy>840</ionization_energy>
+        <radius>185</radius>
+        <mohs_hardness>7.0</mohs_hardness>
+        <bulk_modulus>462</bulk_modulus>
+        <density>22.59</density>
+        <thermal_conductivity>88</thermal_conductivity>
+        <electric_conductivity>12000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "77">
+        <period>6</period>
+        <group>9</group>
+        <symbol>Ir</symbol>
+        <name>Iridium</name>
+        <weight>192.22</weight>
+        <electronegativity>2.20</electronegativity>
+        <melting_point>2719</melting_point>
+        <boiling_point>4701</boiling_point>
+        <electron_affinity>1.564 057</electron_affinity>
+        <ionization_energy>880</ionization_energy>
+        <radius>180</radius>
+        <mohs_hardness>6.5</mohs_hardness>
+        <bulk_modulus>320</bulk_modulus>
+        <density>22.56</density>
+        <thermal_conductivity>150</thermal_conductivity>
+        <electric_conductivity>21000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "78">
+        <period>6</period>
+        <group>10</group>
+        <symbol>Pt</symbol>
+        <name>Platinum</name>
+        <weight>195.08</weight>
+        <electronegativity>2.28</electronegativity>
+        <melting_point>2041.4</melting_point>
+        <boiling_point>4098</boiling_point>
+        <electron_affinity>2.125 10</electron_affinity>
+        <ionization_energy>870</ionization_energy>
+        <radius>177</radius>
+        <mohs_hardness>3.5</mohs_hardness>
+        <bulk_modulus>230</bulk_modulus>
+        <density>21.45</density>
+        <thermal_conductivity>72</thermal_conductivity>
+        <electric_conductivity>9400000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "79">
+        <period>6</period>
+        <group>11</group>
+        <symbol>Au</symbol>
+        <name>Gold</name>
+        <weight>196.97</weight>
+        <electronegativity>2.54</electronegativity>
+        <melting_point>1337.33</melting_point>
+        <boiling_point>3129</boiling_point>
+        <electron_affinity>2.308 610</electron_affinity>
+        <ionization_energy>890.1</ionization_energy>
+        <radius>174</radius>
+        <mohs_hardness>2.5</mohs_hardness>
+        <bulk_modulus>180</bulk_modulus>
+        <density>19.3</density>
+        <thermal_conductivity>320</thermal_conductivity>
+        <electric_conductivity>45000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "80">
+        <period>6</period>
+        <group>12</group>
+        <symbol>Hg</symbol>
+        <name>Mercury</name>
+        <weight>200.59</weight>
+        <electronegativity>2.00</electronegativity>
+        <melting_point>234.43</melting_point>
+        <boiling_point>629.88</boiling_point>
+        <electron_affinity>-0.5</electron_affinity>
+        <ionization_energy>1007.1</ionization_energy>
+        <radius>171</radius>
+        <mohs_hardness>1.5</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>13.534</density>
+        <thermal_conductivity>8.3</thermal_conductivity>
+        <electric_conductivity>1000000</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "81">
+        <period>6</period>
+        <group>13</group>
+        <symbol>Tl</symbol>
+        <name>Thallium</name>
+        <weight>204.38</weight>
+        <electronegativity>1.62</electronegativity>
+        <melting_point>577</melting_point>
+        <boiling_point>1746</boiling_point>
+        <electron_affinity>0.320 053</electron_affinity>
+        <ionization_energy>589.4</ionization_energy>
+        <radius>156</radius>
+        <mohs_hardness>1.2</mohs_hardness>
+        <bulk_modulus>43</bulk_modulus>
+        <density>11.85</density>
+        <thermal_conductivity>46</thermal_conductivity>
+        <electric_conductivity>6700000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+    <element atomic_number = "82">
+        <period>6</period>
+        <group>14</group>
+        <symbol>Pb</symbol>
+        <name>Lead</name>
+        <weight>207.2</weight>
+        <electronegativity>2.33</electronegativity>
+        <melting_point>600.61</melting_point>
+        <boiling_point>2022</boiling_point>
+        <electron_affinity>0.356 721</electron_affinity>
+        <ionization_energy>715.6</ionization_energy>
+        <radius>154</radius>
+        <mohs_hardness>1.5</mohs_hardness>
+        <bulk_modulus>46</bulk_modulus>
+        <density>11.34</density>
+        <thermal_conductivity>35</thermal_conductivity>
+        <electric_conductivity>4800000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+
+    <element atomic_number = "83">
+        <period>6</period>
+        <group>15</group>
+        <symbol>Bi</symbol>
+        <name>Bismuth</name>
+        <weight>208.98</weight>
+        <electronegativity>2.02</electronegativity>
+        <melting_point>544.7</melting_point>
+        <boiling_point>1837</boiling_point>
+        <electron_affinity>0.942 362</electron_affinity>
+        <ionization_energy>703</ionization_energy>
+        <radius>143</radius>
+        <mohs_hardness>2.25</mohs_hardness>
+        <bulk_modulus>31</bulk_modulus>
+        <density>9.78</density>
+        <thermal_conductivity>8</thermal_conductivity>
+        <electric_conductivity>770000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+
+    <element atomic_number = "84">
+        <period>6</period>
+        <group>16</group>
+        <symbol>Po</symbol>
+        <name>Polonium</name>
+        <weight>209</weight>
+        <electronegativity>2.0</electronegativity>
+        <melting_point>527</melting_point>
+        <boiling_point>1235</boiling_point>
+        <electron_affinity>1.40</electron_affinity>
+        <ionization_energy>812.1</ionization_energy>
+        <radius>135</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>9.196</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>2300000</electric_conductivity>
+        <type>Post-transition Metals</type>
+    </element>
+    <element atomic_number = "85">
+        <period>6</period>
+        <group>17</group>
+        <symbol>At</symbol>
+        <name>Astatine</name>
+        <weight>210</weight>
+        <electronegativity>2.2</electronegativity>
+        <melting_point>575</melting_point>
+        <boiling_point>610</boiling_point>
+        <electron_affinity>2.415 78</electron_affinity>
+        <ionization_energy>899.003</ionization_energy>
+        <radius>127</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>7</density>
+        <thermal_conductivity>2</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Metalloids</type>
+    </element>
+
+    <element atomic_number = "86">
+        <period>6</period>
+        <group>18</group>
+        <symbol>Rn</symbol>
+        <name>Radon</name>
+        <weight>222</weight>
+        <electronegativity>2.2</electronegativity>
+        <melting_point>202</melting_point>
+        <boiling_point>211.3</boiling_point>
+        <electron_affinity>-0.7</electron_affinity>
+        <ionization_energy>1037</ionization_energy>
+        <radius>120</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>0.00973</density>
+        <thermal_conductivity>0.00361 </thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Nobel Gases</type>
+    </element>
+
+    <element atomic_number = "87">
+        <period>7</period>
+        <group>1</group>
+        <symbol>Fr</symbol>
+        <name>Francium</name>
+        <weight>223</weight>
+        <electronegativity>0.79</electronegativity>
+        <melting_point>281</melting_point>
+        <boiling_point>890</boiling_point>
+        <electron_affinity>0.486</electron_affinity>
+        <ionization_energy>380</ionization_energy>
+        <radius>120</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>2.48</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Alkali Metals</type>
+    </element>
+    <element atomic_number = "88">
+        <period>7</period>
+        <group>2</group>
+        <symbol>Ra</symbol>
+        <name>Radium</name>
+        <weight>226</weight>
+        <electronegativity>0.9</electronegativity>
+        <melting_point>973</melting_point>
+        <boiling_point>2010</boiling_point>
+        <electron_affinity>0.10</electron_affinity>
+        <ionization_energy>509.3</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>5.5</density>
+        <thermal_conductivity>19</thermal_conductivity>
+        <electric_conductivity>1000000</electric_conductivity>
+        <type>Alkaline Earth Metals</type>
+    </element>
+
+    <element atomic_number = "89">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Ac</symbol>
+        <name>Actinium</name>
+        <weight>227</weight>
+        <electronegativity>1.1</electronegativity>
+        <melting_point>1323</melting_point>
+        <boiling_point>3471</boiling_point>
+        <electron_affinity>0.35</electron_affinity>
+        <ionization_energy>499</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>10</density>
+        <thermal_conductivity>12</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+    <element atomic_number = "90">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Th</symbol>
+        <name>Thorium</name>
+        <weight>232.04</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>2115</melting_point>
+        <boiling_point>5061</boiling_point>
+        <electron_affinity>0.607 69</electron_affinity>
+        <ionization_energy>587</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>3.0</mohs_hardness>
+        <bulk_modulus>54</bulk_modulus>
+        <density>11.7</density>
+        <thermal_conductivity>54</thermal_conductivity>
+        <electric_conductivity>6700000</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "91">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Pa</symbol>
+        <name>Protactinium</name>
+        <weight>231.04</weight>
+        <electronegativity>1.5</electronegativity>
+        <melting_point>1841</melting_point>
+        <boiling_point>4300</boiling_point>
+        <electron_affinity>0.55</electron_affinity>
+        <ionization_energy>568</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>15.37</density>
+        <thermal_conductivity>47</thermal_conductivity>
+        <electric_conductivity>5600000</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "92">
+        <period>7</period>
+        <group>3</group>
+        <symbol>U</symbol>
+        <name>Uranium</name>
+        <weight>238.03</weight>
+        <electronegativity>1.38</electronegativity>
+        <melting_point>1405.3</melting_point>
+        <boiling_point>4404</boiling_point>
+        <electron_affinity>0.314 97</electron_affinity>
+        <ionization_energy>597.6</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>6.0</mohs_hardness>
+        <bulk_modulus>100</bulk_modulus>
+        <density>19.1</density>
+        <thermal_conductivity>27</thermal_conductivity>
+        <electric_conductivity>3600000</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "93">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Np</symbol>
+        <name>Neptunium</name>
+        <weight>237</weight>
+        <electronegativity>1.36</electronegativity>
+        <melting_point>917</melting_point>
+        <boiling_point>4273</boiling_point>
+        <electron_affinity>0.48</electron_affinity>
+        <ionization_energy>604.5</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>20.45</density>
+        <thermal_conductivity>6</thermal_conductivity>
+        <electric_conductivity>830000</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "94">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Pu</symbol>
+        <name>Plutonium</name>
+        <weight>244</weight>
+        <electronegativity>1.28</electronegativity>
+        <melting_point>912.5</melting_point>
+        <boiling_point>3501</boiling_point>
+        <electron_affinity>-0.50</electron_affinity>
+        <ionization_energy>584.7</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>19.85</density>
+        <thermal_conductivity>6</thermal_conductivity>
+        <electric_conductivity>670000</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+    <element atomic_number = "95">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Am</symbol>
+        <name>Americium</name>
+        <weight>243</weight>
+        <electronegativity>1.13</electronegativity>
+        <melting_point>1449</melting_point>
+        <boiling_point>2880</boiling_point>
+        <electron_affinity>0.10</electron_affinity>
+        <ionization_energy>578</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>12</density>
+        <thermal_conductivity>10</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+    <element atomic_number = "96">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Cm</symbol>
+        <name>Curium</name>
+        <weight>247</weight>
+        <electronegativity>1.28</electronegativity>
+        <melting_point>1613</melting_point>
+        <boiling_point>3383</boiling_point>
+        <electron_affinity>0.28</electron_affinity>
+        <ionization_energy>581</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>13.51</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "97">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Bk</symbol>
+        <name>Berkelium</name>
+        <weight>247</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1259</melting_point>
+        <boiling_point>2900</boiling_point>
+        <electron_affinity>-1.72</electron_affinity>
+        <ionization_energy>601</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>14.78</density>
+        <thermal_conductivity>10</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "98">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Cf</symbol>
+        <name>Californium</name>
+        <weight>251</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1173</melting_point>
+        <boiling_point>1743</boiling_point>
+        <electron_affinity>-1.01</electron_affinity>
+        <ionization_energy>608</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>15.1</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "99">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Es</symbol>
+        <name>Einsteinium</name>
+        <weight>252</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1133</melting_point>
+        <boiling_point>1269</boiling_point>
+        <electron_affinity>-0.30</electron_affinity>
+        <ionization_energy>619</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>8.84</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+    <element atomic_number = "100">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Fm</symbol>
+        <name>Fermium</name>
+        <weight>257</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1527</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>0.35</electron_affinity>
+        <ionization_energy>627</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>9.7</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+    <element atomic_number = "101">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Md</symbol>
+        <name>Mendelevium</name>
+        <weight>258</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1100</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>0.98</electron_affinity>
+        <ionization_energy>635</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>10.3</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "102">
+        <period>7</period>
+        <group>3</group>
+        <symbol>No</symbol>
+        <name>Nobelium</name>
+        <weight>259</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1100</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-2.33</electron_affinity>
+        <ionization_energy>642</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>9.9</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "103">
+        <period>7</period>
+        <group>3</group>
+        <symbol>Lr</symbol>
+        <name>Lawrencium</name>
+        <weight>266</weight>
+        <electronegativity>1.3</electronegativity>
+        <melting_point>1900</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-0.31</electron_affinity>
+        <ionization_energy>470</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>14.4</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Actinides</type>
+    </element>
+
+    <element atomic_number = "104">
+        <period>7</period>
+        <group>4</group>
+        <symbol>Rf</symbol>
+        <name>Rutherfordium</name>
+        <weight>267</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>2400</melting_point>
+        <boiling_point>5800</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>580</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>17</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+    <element atomic_number = "105">
+        <period>7</period>
+        <group>5</group>
+        <symbol>Db</symbol>
+        <name>Dubnium</name>
+        <weight>268</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>665</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>21.6</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "106">
+        <period>7</period>
+        <group>6</group>
+        <symbol>Sg</symbol>
+        <name>Seaborgium</name>
+        <weight>269</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>757</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "107">
+        <period>7</period>
+        <group>7</group>
+        <symbol>Bh</symbol>
+        <name>Bohrium</name>
+        <weight>270</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>740</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "108">
+        <period>7</period>
+        <group>8</group>
+        <symbol>Hs</symbol>
+        <name>Hassium</name>
+        <weight>269</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>730</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>Transition Metals</type>
+    </element>
+
+    <element atomic_number = "109">
+        <period>7</period>
+        <group>9</group>
+        <symbol>Mt</symbol>
+        <name>Meitnerium</name>
+        <weight>278</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>800</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+    <element atomic_number = "110">
+        <period>7</period>
+        <group>10</group>
+        <symbol>Ds</symbol>
+        <name>Darmstadtium</name>
+        <weight>281</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>960</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "111">
+        <period>7</period>
+        <group>11</group>
+        <symbol>Rg</symbol>
+        <name>Roentgenium</name>
+        <weight>282</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>-</melting_point>
+        <boiling_point>-</boiling_point>
+        <electron_affinity>1.565</electron_affinity>
+        <ionization_energy>1020</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "112">
+        <period>7</period>
+        <group>12</group>
+        <symbol>Cn</symbol>
+        <name>Copernicium</name>
+        <weight>285</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>283</melting_point>
+        <boiling_point>340</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>1155</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>14.0</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "113">
+        <period>7</period>
+        <group>13</group>
+        <symbol>Nh</symbol>
+        <name>Nihonium</name>
+        <weight>286</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>700</melting_point>
+        <boiling_point>1400</boiling_point>
+        <electron_affinity>0.69</electron_affinity>
+        <ionization_energy>707.2</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>16</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "114">
+        <period>7</period>
+        <group>14</group>
+        <symbol>Fl</symbol>
+        <name>Flerovium</name>
+        <weight>289</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>200</melting_point>
+        <boiling_point>380</boiling_point>
+        <electron_affinity>-</electron_affinity>
+        <ionization_energy>832.2</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>9.928</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+    <element atomic_number = "115">
+        <period>7</period>
+        <group>15</group>
+        <symbol>Mc</symbol>
+        <name>Moscovium</name>
+        <weight>290</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>700</melting_point>
+        <boiling_point>1400</boiling_point>
+        <electron_affinity>0.366</electron_affinity>
+        <ionization_energy>538.3</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>13.5</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "116">
+        <period>7</period>
+        <group>16</group>
+        <symbol>Lv</symbol>
+        <name>Livermorium</name>
+        <weight>293</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>700</melting_point>
+        <boiling_point>1100</boiling_point>
+        <electron_affinity>0.776</electron_affinity>
+        <ionization_energy>663.9</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>12.9</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "117">
+        <period>7</period>
+        <group>17</group>
+        <symbol>Ts</symbol>
+        <name>Tennessine</name>
+        <weight>294</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>700</melting_point>
+        <boiling_point>883</boiling_point>
+        <electron_affinity>1.719</electron_affinity>
+        <ionization_energy>736.9</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+
+    <element atomic_number = "118">
+        <period>7</period>
+        <group>18</group>
+        <symbol>Og</symbol>
+        <name>Oganesson</name>
+        <weight>294</weight>
+        <electronegativity>-</electronegativity>
+        <melting_point>325</melting_point>
+        <boiling_point>450</boiling_point>
+        <electron_affinity>0.056</electron_affinity>
+        <ionization_energy>860.1</ionization_energy>
+        <radius>-</radius>
+        <mohs_hardness>-</mohs_hardness>
+        <bulk_modulus>-</bulk_modulus>
+        <density>-</density>
+        <thermal_conductivity>-</thermal_conductivity>
+        <electric_conductivity>-</electric_conductivity>
+        <type>-</type>
+    </element>
+</resources>

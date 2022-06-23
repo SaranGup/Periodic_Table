@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/elementCell"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardElevation="0dp">
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:id="@+id/cell_linear_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="6dp">
+                <TextView
+                    android:id="@+id/atomicNo"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:text="TextView"
+                    android:layout_weight="3"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="7dp"
+                    android:background="#00000000"/>
+
+                <TextView
+                    android:id="@+id/elementSymbol"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:text="TV"
+                    android:layout_weight="5"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="7dp"
+                    android:autoSizeStepGranularity="1dp"
+                    android:autoSizeMaxTextSize="100dp"
+                    android:background="#00000000"/>
+
+                <TextView
+                    android:id="@+id/element_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:text="TextView"
+                    android:layout_weight="2"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeStepGranularity="5dp"
+                    android:autoSizeMinTextSize="6dp"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:background="#00000000"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+        </androidx.cardview.widget.CardView>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

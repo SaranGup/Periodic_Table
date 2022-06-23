@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Minus (-) how much dp you gave in the stroke width from left right-->
+    <item android:id="@+id/background">
+        <shape
+            android:shape="rectangle">
+            <!--This is the main background -->
+            <solid android:color="@color/background" />
+        </shape>
+    </item>
+
+    <item android:top="1.5dp" android:right="1.5dp" android:id="@+id/border">
+        <shape
+            android:shape="rectangle">
+            <!--This is the main background -->
+            <solid android:color="@color/actinides" />
+        </shape>
+    </item>
+
+    <item android:bottom="1.5dp" android:left="1.5dp" android:id="@+id/antiBorder">
+        <shape
+            android:shape="rectangle">
+            <!--This is the main background -->
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+</layer-list>

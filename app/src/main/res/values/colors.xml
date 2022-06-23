@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_grey">#191919</color>
+    <color name="light_grey">#323232</color>
+    <color name="alkali_metals">#FF9800</color>
+    <color name="alkaline_earth_metals">#FFC107</color>
+    <color name="reactive_non_metals">#8BC34A</color>
+    <color name="transition_metals">#F44336</color>
+    <color name="post_transition_metals">#2196F3</color>
+    <color name="metalloids">#009688</color>
+    <color name="noble_gases">#673AB7</color>
+    <color name="unknown_properties">#808080</color>
+    <color name="lanthinides">#3F51B5</color>
+    <color name="actinides">#9C27B0</color>
+    <color name="blank">#00000000</color>
+
+    <color name="font_color">#FF000000</color>
+    <color name="box_background">#FFEFEFEF</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="overlay">#FFCFCFCF</color>
+</resources>

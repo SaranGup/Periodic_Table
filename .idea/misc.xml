@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/alkali_metals.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/border.xml" value="0.2025" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_actinides.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_alkali_metals.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_alkaline_earth_metals.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_amount.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_cell.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_lanthinides.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_long.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_metalloids.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_noble_gases.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_post_transition_metals.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_reactive_non_metals.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_transition_metals.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/gradient_unknown_properties.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/ic_list_search.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/ic_periodic_table.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/drawable/progress.xml" value="0.1" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout-land/activity_info.xml" value="0.3625" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout-land/fragment_search.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/action_search.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/action_sort.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/action_table.xml" value="0.3625" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/activity_info.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/cell_element.xml" value="0.30434782608695654" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/cell_empty.xml" value="0.30434782608695654" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/content_info.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/data_row.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/element_cell.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/empty_cell.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/field_row.xml" value="0.16818642350557245" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/fragment_search.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/fragment_sort.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/fragment_table.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/head_image.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/image_row.xml" value="0.16818642350557245" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/info_row.xml" value="0.25" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/row_amount.xml" value="0.1883614088820827" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/row_image.xml" value="0.2171875" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/row_info.xml" value="0.3625" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/search_fragment.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/sort_fragment.xml" value="0.2328125" />
+        <entry key="..\:/Users/97156/AndroidStudioProjects/PeriodicTable/app/src/main/res/layout/table_fragment.xml" value="0.13934426229508196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
